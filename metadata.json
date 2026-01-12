@@ -1,0 +1,9 @@
+{
+  "name": "Smart Haulage ERP",
+  "description": "Enterprise-grade trucking and logistics management system with OCR-powered finance, double-entry bookkeeping, and operational tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
